@@ -1,0 +1,20 @@
+{
+  "name": "openx_task",
+  "version": "1.0.0",
+  "description": "Task for OpenX intern recruitment",
+  "main": "task_2.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Karol Widuch",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2",
+    "mocha-sinon": "^2.1.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.1",
+    "sinon": "^10.0.1"
+  }
+}
